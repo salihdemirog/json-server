@@ -254,5 +254,105 @@
     "modifiedProperties": null,
     "entityIdentifier": "00000000-0000-0000-0000-000000000000"
   }
+],
+  "ObjectiveCategorys":[
+  {
+    "id": "ebdb0461-c218-430a-b86e-57459b17df44",
+    "value": "Vatandaş Memnuniyeti",
+    "isActive": true,
+    "dateCreated": null,
+    "dateModified": null,
+    "isDeleted": false,
+    "userCreated": null,
+    "userModified": null,
+    "objectives": [],
+    "trackingState": 0,
+    "modifiedProperties": null,
+    "entityIdentifier": "00000000-0000-0000-0000-000000000000"
+  },
+  {
+    "id": "7109c572-7877-4194-b3d8-5e7bf4a0abf2",
+    "value": "Verimlilik",
+    "isActive": true,
+    "dateCreated": null,
+    "dateModified": null,
+    "isDeleted": false,
+    "userCreated": null,
+    "userModified": null,
+    "objectives": [],
+    "trackingState": 0,
+    "modifiedProperties": null,
+    "entityIdentifier": "00000000-0000-0000-0000-000000000000"
+  },
+  {
+    "id": "cb7c1a31-bc47-469e-a6ca-8df7bcda6151",
+    "value": "Öğrenme/Gelişim",
+    "isActive": true,
+    "dateCreated": null,
+    "dateModified": null,
+    "isDeleted": false,
+    "userCreated": null,
+    "userModified": null,
+    "objectives": [],
+    "trackingState": 0,
+    "modifiedProperties": null,
+    "entityIdentifier": "00000000-0000-0000-0000-000000000000"
+  },
+  {
+    "id": "e5efdca4-2ed0-402e-9f63-a216f929057c",
+    "value": "Kalite/Geliştirme",
+    "isActive": true,
+    "dateCreated": null,
+    "dateModified": null,
+    "isDeleted": false,
+    "userCreated": null,
+    "userModified": null,
+    "objectives": [],
+    "trackingState": 0,
+    "modifiedProperties": null,
+    "entityIdentifier": "00000000-0000-0000-0000-000000000000"
+  },
+  {
+    "id": "1789133f-9f07-44fe-992e-b6edfd7ee0ff",
+    "value": "Veri Üretimi",
+    "isActive": true,
+    "dateCreated": "2017-01-23T11:23:05.26",
+    "dateModified": "2017-01-23T11:23:08.587",
+    "isDeleted": false,
+    "userCreated": "fa64503f-a30f-4aaa-9b4e-2d0f195ea112",
+    "userModified": "fa64503f-a30f-4aaa-9b4e-2d0f195ea112",
+    "objectives": [],
+    "trackingState": 0,
+    "modifiedProperties": null,
+    "entityIdentifier": "00000000-0000-0000-0000-000000000000"
+  },
+  {
+    "id": "eb95b260-27e2-4e34-85c7-f1da3df67b0b",
+    "value": "Finansal",
+    "isActive": true,
+    "dateCreated": null,
+    "dateModified": null,
+    "isDeleted": false,
+    "userCreated": null,
+    "userModified": null,
+    "objectives": [],
+    "trackingState": 0,
+    "modifiedProperties": null,
+    "entityIdentifier": "00000000-0000-0000-0000-000000000000"
+  },
+  {
+    "id": "eb95b260-27e2-4e34-85c7-f1da3df67b0c",
+    "value": "Anket",
+    "isActive": true,
+    "dateCreated": null,
+    "dateModified": null,
+    "isDeleted": false,
+    "userCreated": null,
+    "userModified": null,
+    "objectives": [],
+    "trackingState": 0,
+    "modifiedProperties": null,
+    "entityIdentifier": "00000000-0000-0000-0000-000000000000"
+  }
 ]
 }
