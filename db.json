@@ -1,34 +1,6 @@
 {
   "ObjectiveTypes": [
     {
-      "id": "276fe8dc-cdb1-4b10-a006-7ef5dc78ebd8",
-      "value": "test",
-      "isActive": false,
-      "dateCreated": "2021-06-11T12:32:01.323",
-      "dateModified": "2021-06-11T12:32:01.323",
-      "isDeleted": false,
-      "userCreated": "ca5355f7-2fcd-41d2-85ca-faf2125d6d70",
-      "userModified": "ca5355f7-2fcd-41d2-85ca-faf2125d6d70",
-      "objectives": [],
-      "trackingState": 0,
-      "modifiedProperties": null,
-      "entityIdentifier": "00000000-0000-0000-0000-000000000000"
-    },
-    {
-      "id": "ed2abaf2-0a87-455a-b1c8-c3c859578209",
-      "value": "Hafta",
-      "isActive": true,
-      "dateCreated": null,
-      "dateModified": null,
-      "isDeleted": false,
-      "userCreated": null,
-      "userModified": null,
-      "objectives": [],
-      "trackingState": 0,
-      "modifiedProperties": null,
-      "entityIdentifier": "00000000-0000-0000-0000-000000000000"
-    },
-    {
       "id": "cb7ff90e-c8ea-4a7b-a0f1-c83a308ab417",
       "value": "Gün",
       "isActive": true,
@@ -113,20 +85,6 @@
       "trackingState": 0,
       "modifiedProperties": null,
       "entityIdentifier": "00000000-0000-0000-0000-000000000000"
-    },
-    {
-      "id": "fc655253-dc56-4cef-a5f2-8e72619c0b1d",
-      "value": "Azalan",
-      "isActive": true,
-      "dateCreated": null,
-      "dateModified": null,
-      "isDeleted": false,
-      "userCreated": null,
-      "userModified": null,
-      "objectives": [],
-      "trackingState": 0,
-      "modifiedProperties": null,
-      "entityIdentifier": "00000000-0000-0000-0000-000000000000"
     }
   ],
   "ObjectiveCategorys": [
@@ -171,34 +129,6 @@
       "trackingState": 0,
       "modifiedProperties": null,
       "entityIdentifier": "00000000-0000-0000-0000-000000000000"
-    },
-    {
-      "id": "eb95b260-27e2-4e34-85c7-f1da3df67b0b",
-      "value": "Finansal",
-      "isActive": true,
-      "dateCreated": null,
-      "dateModified": null,
-      "isDeleted": false,
-      "userCreated": null,
-      "userModified": null,
-      "objectives": [],
-      "trackingState": 0,
-      "modifiedProperties": null,
-      "entityIdentifier": "00000000-0000-0000-0000-000000000000"
-    },
-    {
-      "id": "eb95b260-27e2-4e34-85c7-f1da3df67b0c",
-      "value": "Anket",
-      "isActive": true,
-      "dateCreated": null,
-      "dateModified": null,
-      "isDeleted": false,
-      "userCreated": null,
-      "userModified": null,
-      "objectives": [],
-      "trackingState": 0,
-      "modifiedProperties": null,
-      "entityIdentifier": "00000000-0000-0000-0000-000000000000"
     }
   ],
   "GeneralPeriods": [
@@ -229,42 +159,6 @@
       "isDeleted": false,
       "userCreated": "5d1e97e0-a01e-49c3-a4b2-bac4e904eb03",
       "userModified": "5d1e97e0-a01e-49c3-a4b2-bac4e904eb03",
-      "competenceFormSetInstances": [],
-      "competenceSets": [],
-      "objectiveSets": [],
-      "periods": [],
-      "rationCardPeriods": [],
-      "trackingState": 0,
-      "modifiedProperties": null,
-      "entityIdentifier": "00000000-0000-0000-0000-000000000000"
-    },
-    {
-      "id": "87088b20-2fda-4478-aff7-4eabd47c6053",
-      "name": "2021 Yetkinlik Dönemi Analiz",
-      "generalPeriodType": 1,
-      "dateCreated": "2021-06-21T14:54:05.653",
-      "dateModified": "2021-06-21T14:54:05.653",
-      "isDeleted": false,
-      "userCreated": "ca5355f7-2fcd-41d2-85ca-faf2125d6d70",
-      "userModified": "ca5355f7-2fcd-41d2-85ca-faf2125d6d70",
-      "competenceFormSetInstances": [],
-      "competenceSets": [],
-      "objectiveSets": [],
-      "periods": [],
-      "rationCardPeriods": [],
-      "trackingState": 0,
-      "modifiedProperties": null,
-      "entityIdentifier": "00000000-0000-0000-0000-000000000000"
-    },
-    {
-      "id": "30fbb4f3-eb05-415a-af71-541f7ea03d2d",
-      "name": "TEST DÖNEMİ",
-      "generalPeriodType": 0,
-      "dateCreated": "2021-06-08T10:57:10.547",
-      "dateModified": "2021-06-08T10:57:10.547",
-      "isDeleted": false,
-      "userCreated": "ca5355f7-2fcd-41d2-85ca-faf2125d6d70",
-      "userModified": "ca5355f7-2fcd-41d2-85ca-faf2125d6d70",
       "competenceFormSetInstances": [],
       "competenceSets": [],
       "objectiveSets": [],
